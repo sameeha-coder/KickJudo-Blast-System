@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\bin\Debug\KickBlastJudoSystem.exe.config
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\bin\Debug\KickBlastJudoSystem.exe
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\bin\Debug\KickBlastJudoSystem.pdb
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.frmLogin.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.exe
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.pdb
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.exe.config
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.frmMainDashboard.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.frmAthleteRegistration.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.frmFeeCalculator.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.frmViewRegistrations.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoSystem\KickBlastJudoSystem\obj\Debug\KickBlastJudoSystem.frmManageAthletes.resources

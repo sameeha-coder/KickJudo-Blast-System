@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\bin\Debug\net8.0-windows\KickBlastJudoFeeCalculator.exe
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\bin\Debug\net8.0-windows\KickBlastJudoFeeCalculator.deps.json
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\bin\Debug\net8.0-windows\KickBlastJudoFeeCalculator.runtimeconfig.json
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\bin\Debug\net8.0-windows\KickBlastJudoFeeCalculator.dll
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\bin\Debug\net8.0-windows\KickBlastJudoFeeCalculator.pdb
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.frmKickBlastJudo.resources
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.AssemblyInfo.cs
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.dll
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\refint\KickBlastJudoFeeCalculator.dll
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.pdb
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\KickBlastJudoFeeCalculator.genruntimeconfig.cache
+C:\Users\Dell\Desktop\HND\programming assignment hnd\CS\KickBlastJudoFeeCalculator\KickBlastJudoFeeCalculator\obj\Debug\net8.0-windows\ref\KickBlastJudoFeeCalculator.dll

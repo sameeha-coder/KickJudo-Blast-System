@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\HND\\programming assignment hnd\\CS\\KickBlastJudoFeeCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591CE9E6-DAA5-4A21-BD66-4A90AC2D99DF}|KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator.csproj|c:\\users\\dell\\desktop\\hnd\\programming assignment hnd\\cs\\kickblastjudofeecalculator\\kickblastjudofeecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591CE9E6-DAA5-4A21-BD66-4A90AC2D99DF}|KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator.csproj|solutionrelative:kickblastjudofeecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591CE9E6-DAA5-4A21-BD66-4A90AC2D99DF}|KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator.csproj|c:\\users\\dell\\desktop\\hnd\\programming assignment hnd\\cs\\kickblastjudofeecalculator\\kickblastjudofeecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{591CE9E6-DAA5-4A21-BD66-4A90AC2D99DF}|KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator.csproj|solutionrelative:kickblastjudofeecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\HND\\programming assignment hnd\\CS\\KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "KickBlastJudoFeeCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\HND\\programming assignment hnd\\CS\\KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator\\Form1.cs",
+              "RelativeToolTip": "KickBlastJudoFeeCalculator\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:52:01.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\HND\\programming assignment hnd\\CS\\KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "KickBlastJudoFeeCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\HND\\programming assignment hnd\\CS\\KickBlastJudoFeeCalculator\\KickBlastJudoFeeCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "KickBlastJudoFeeCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T07:33:48.124Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
